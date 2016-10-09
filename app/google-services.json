@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282894521925",
+    "project_id": "login-dec34"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282894521925:android:bd03d79e5ee12650",
+        "android_client_info": {
+          "package_name": "com.karav.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282894521925-1khtnp56hu547l5497m713h5ev2adh7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karav.login",
+            "certificate_hash": "313E95FE4AA1CF0852647AEC61E87D8D2777A80D"
+          }
+        },
+        {
+          "client_id": "282894521925-oc2mso1f2ur4tko1rcd72e34209ac14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsN6a4ijo39qko1WZc9R73EJojTW_zYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
